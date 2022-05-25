@@ -10,8 +10,8 @@
 
 <hr>
  <div>   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morenin06&layout=compact&langs_count=16&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morenin06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus040&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus040&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
  <hr> 

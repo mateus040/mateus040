@@ -1,7 +1,7 @@
 ### 👋 Olá! Me chamo Mateus 
 <hr>
 <h3>
--💻 Estou no 2° Ano do curso de Desenvolvimento de Sistemas (Etec)
+-💻  Cursando Desenvolvimento de Sistemas (Etec)
 </h3>
 
 <h3>

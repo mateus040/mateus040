@@ -25,10 +25,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00CED1?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 ![PYTHON](https://img.shields.io/badge/Python-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp; 
-  
-### • Studying / Estudando:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-  
+
 ### • Tools / Ferramentas:
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;

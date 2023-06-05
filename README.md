@@ -34,6 +34,9 @@
 ![MicrosoftOfice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-9370DB?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+  
+### • Studying / Estudando:
+ ![Dart](https://img.shields.io/badge/Dart-1E90FF?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  

@@ -23,7 +23,6 @@
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)&nbsp;
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-00CED1?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
-![PYTHON](https://img.shields.io/badge/Python-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp; 
 
 ### • Tools / Ferramentas:
@@ -37,6 +36,7 @@
   
 ### • Other Knowledges / Outros Conhecimentos:
  ![Dart](https://img.shields.io/badge/Dart-1E90FF?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
+ ![PYTHON](https://img.shields.io/badge/Python-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  

@@ -35,7 +35,7 @@
 ![Canva](https://img.shields.io/badge/Canva-9370DB?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
   
-### • Studying / Estudando:
+### • Other Knowledges / Outros Conhecimentos:
  ![Dart](https://img.shields.io/badge/Dart-1E90FF?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 
 <div align="center">

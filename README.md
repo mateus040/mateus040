@@ -37,6 +37,7 @@
 ### • Other Knowledges / Outros Conhecimentos:
  ![Dart](https://img.shields.io/badge/Dart-1E90FF?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
  ![PYTHON](https://img.shields.io/badge/Python-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+ ![Firebase](https://img.shields.io/badge/Firebase-DAA520?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  

@@ -24,6 +24,7 @@
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-00CED1?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=1C86EE)&nbsp; 
 
 ### • Tools / Ferramentas:
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;

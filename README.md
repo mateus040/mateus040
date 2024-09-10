@@ -15,16 +15,12 @@
 </div>
   
 ### • Skills / Habilidades:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp; 
-![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=1C86EE)&nbsp; 
+![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=1C86EE)&nbsp;
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFF)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-4E2F2F?style=for-the-badge&logo=laravel&logoColor=FF0000)&nbsp; 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)&nbsp;
-![Arduino](https://img.shields.io/badge/Arduino-00CED1?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 
 ### • Tools / Ferramentas:
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
@@ -35,10 +31,11 @@
 ![Canva](https://img.shields.io/badge/Canva-9370DB?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
   
-### • Other Knowledges / Outros Conhecimentos:
- ![Dart](https://img.shields.io/badge/Dart-1E90FF?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
+### • Other (Basic) Knowledge / Outros Conhecimentos Básicos:
+ ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
  ![PYTHON](https://img.shields.io/badge/Python-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;
- ![Firebase](https://img.shields.io/badge/Firebase-DAA520?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
+ ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)&nbsp;
+ ![Arduino](https://img.shields.io/badge/Arduino-00CED1?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  

@@ -14,28 +14,20 @@
 <a href="https://www.linkedin.com/in/mateus-gabriel-moreno-585344240/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-1C86EE?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
   
-### • Skills / Habilidades:
-![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=1C86EE)&nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFF)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-4E2F2F?style=for-the-badge&logo=laravel&logoColor=FF0000)&nbsp; 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+### • Languages / Technologies:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,php,nodejs" />
+</a>
 
-### • Tools / Ferramentas:
-![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![MicrosoftOfice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-9370DB?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-  
-### • Other (Basic) Knowledge / Outros Conhecimentos Básicos:
- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
- ![PYTHON](https://img.shields.io/badge/Python-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;
- ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)&nbsp;
- ![Arduino](https://img.shields.io/badge/Arduino-00CED1?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
+### • Frameworks / Libraries:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,laravel,nestjs,mysql,mongodb,jest" />
+</a>
+
+### • Tools:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,gitlab,docker,postman" />
+</a>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  

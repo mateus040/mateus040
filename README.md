@@ -16,12 +16,12 @@
   
 ### • Languages / Technologies:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,php,nodejs" />
+  <img src="https://skillicons.dev/icons?i=php,cs,nodejs,javascript,typescript" />
 </a>
 
 ### • Frameworks / Libraries:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,laravel,nestjs,mysql,mongodb,jest" />
+  <img src="https://skillicons.dev/icons?i=laravel,dotnet,nestjs,react,nextjs,tailwind,vite,mysql,mongodb,jest" />
 </a>
 
 ### • Tools:

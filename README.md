@@ -28,11 +28,6 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,gitlab,docker,postman" />
 </a>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mateus040}/count.svg" /></p> 
-<br></div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
   

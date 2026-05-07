@@ -16,7 +16,7 @@
 
 ### • Frameworks / Libraries:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=laravel,dotnet,nestjs,react,nextjs,tailwind,vite,mysql,mongodb,jest" />
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,nestjs,react,nextjs,tailwind,vite,mysql,mongodb,jest" />
 </a>
 
 ### • Tools:
